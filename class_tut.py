@@ -1,5 +1,5 @@
 
-class one():
+class one(object):
 	
 	def __init__(self, x):
 		self.x = x
